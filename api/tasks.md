@@ -1,4 +1,4 @@
-**/api/tasks/<Number>**
+**/api/tasks/10**
 
 ```
 {

@@ -1,4 +1,4 @@
-**/api/layouts/<Number>**
+**/api/layouts/10**
 
 ```
 {

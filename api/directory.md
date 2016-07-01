@@ -1,4 +1,4 @@
-**/api/directory/<Number>**
+**/api/directory/10**
 
 ```
 {
